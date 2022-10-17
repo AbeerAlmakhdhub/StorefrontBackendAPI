@@ -87,4 +87,3 @@ Please create a **.env** file with the declaring the following variables:
 
 The API provides both CRUD and custom actions for accessing and manipulating data in the database. You can find information regarding the requirements for sending requests to endpoints, data shapes, and database schema in the [REQUIREMENTS.md](https://github.com/AbeerAlmakhdhub/StorefrontBackendApi/blob/main/REQUIREMENTS.md) file.
 
-#### Note that `testMaterial.json` is provided post request bodies if you'd like to use it.
